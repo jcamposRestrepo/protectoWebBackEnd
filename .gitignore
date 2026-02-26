@@ -1,0 +1,159 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# Archivos de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directorio de coverage generado por herramientas como istanbul
+coverage/
+
+# Directorio de dependencias de nyc test coverage
+.nyc_output
+
+# Archivos de Grunt intermediate storage
+.grunt
+
+# Archivos de Bower dependency directory
+bower_components
+
+# Directorio de node-waf
+.lock-wscript
+
+# Archivos compilados binarios para addons nativos
+build/Release
+
+# Directorio de dependencias
+node_modules/
+jspm_packages/
+
+# Archivos de TypeScript
+*.tsbuildinfo
+
+# Archivos opcionales de npm
+.npm
+
+# Archivos opcionales de eslint
+.eslintcache
+
+# Archivos de Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Archivos opcionales de REPL history
+.node_repl_history
+
+# Salida de 'npm pack'
+*.tgz
+
+# Archivos de Yarn Integrity
+.yarn-integrity
+
+# Archivos de parcel-bundler cache
+.cache
+.parcel-cache
+
+# Archivos de Next.js build output
+.next
+
+# Archivos de Nuxt.js build / generate output
+.nuxt
+dist
+
+# Archivos de Gatsby
+.cache/
+public
+
+# Archivos de Storybook build outputs
+.out
+.storybook-out
+
+# Archivos de Temporary folders
+tmp/
+temp/
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos subidos
+src/uploads/
+uploads/
+
+# Archivos de base de datos
+*.sqlite
+*.db
+
+# Archivos de configuración de Sequelize CLI
+config/config.json
+
+# Credenciales de Firebase (NUNCA subir a Git)
+firebase-service-account.json
+*service-account*.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
